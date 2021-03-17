@@ -1,2 +1,2 @@
 # React example
-## Implements the example from react docs: https://pt-br.reactjs.org/docs/thinking-in-react.html
+## Implements the example from react docs: https://reactjs.org/docs/thinking-in-react.html
